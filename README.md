@@ -1,6 +1,6 @@
-## Hi 👋, my name is Aaron Brown.
+## Hi there, my name is Aaron.
 
-I am a software engineer in the San Francisco Bay Area. I enjoy applying my background in food, real estate, and financial services to software engineering and would love to chat with you more.
+I am a software engineer in the San Francisco Bay Area. I enjoy applying my background in food, real estate, and financial services to software engineering.
 
 
 ## GitHub Stats:
