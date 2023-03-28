@@ -1,6 +1,6 @@
 ## Hi there 👋, A-aron = "present".
 
-I am a software engineer in the San Francisco Bay Area. I enjoy applying my background in food, real estate, and financial services to software engineering.
+As a software engineer, I bring a unique perspective to my work, thanks to my successful transition from diverse industries, including food, real estate, and tax.
 
 
 ## GitHub Stats:
