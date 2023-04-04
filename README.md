@@ -27,8 +27,8 @@ Technologies used:
   <br>
 
 <a href="https://github.com/djbrownbear/better-bake/#README.md" title="Better Bake" target="_blank">
-    More Info
-</a>  <br>
+    <img src="https://github.com/djbrownbear/djbrownbear.github.io/blob/main/images/AnimationBetterBake.gif" alt="Better Bake, More Info" width="400px">
+</a>
 
 Technologies used:
   
@@ -47,8 +47,8 @@ Technologies used:
   <br>
 
 <a href="https://github.com/djbrownbear/dash-covid19-ca-bay-area/#README.md" title="Covid Tracker" target="_blank">
-    More Info
-</a><br>
+  <img src="https://github.com/djbrownbear/djbrownbear.github.io/blob/main/images/AnimationCovidTracker.gif" alt="Better Bake, More Info" width="400px">
+</a>
   
 Technologies used:
   
