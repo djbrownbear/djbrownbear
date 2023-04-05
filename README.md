@@ -8,7 +8,7 @@
   <br>
 
 <a href="http://msp.aaronandanita.com/" title="Mustard Seed Preschool" target="_blank">
-    View Live Page
+    <img src="https://github.com/djbrownbear/msp/blob/bb9c353d3fcc48bddeec2ad5d01586ccfaca9eee/assets/images/msp_2023-04-02%20235909.jpg" width="400px" alt="MSP homepage">
 </a>  <br>
 
 Technologies used:
