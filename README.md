@@ -2,7 +2,7 @@
 <p align="left">As a software engineer, I bring a unique perspective to my work, thanks to my successful transition from diverse industries, including food, real estate, and tax.</p>
 
 ### ⚒ Projects:
-<p>Check out some of the projects I have worked on:</p>
+<p>Check out some of the projects I have worked on (click on the images to visit the live project):</p>
 <details closed>
   <summary>Mustard Seed Preschool 🏫</summary>
   <br>
