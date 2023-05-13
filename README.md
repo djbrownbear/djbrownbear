@@ -2,13 +2,15 @@
 <p align="left">As a software engineer, I bring a unique perspective to my work, thanks to my successful transition from diverse industries, including food, real estate, and tax.</p>
 
 ### ⚒ Projects:
-<p>Check out some of the projects I have worked on (click on the images to visit the live project):</p>
+<p>Check out some of the projects I have worked on:</p>
+
 <details closed>
   <summary>Mustard Seed Preschool 🏫</summary>
   <br>
 
 <a href="http://msp.aaronandanita.com/" title="Mustard Seed Preschool" target="_blank">
     <img src="https://github.com/djbrownbear/msp/blob/bb9c353d3fcc48bddeec2ad5d01586ccfaca9eee/assets/images/msp_2023-04-02%20235909.jpg" width="400px" alt="MSP homepage">
+  <br>Visit Live Site</br>
 </a>  <br>
 
 Technologies used:
@@ -28,6 +30,7 @@ Technologies used:
 
 <a href="https://github.com/djbrownbear/better-bake/#README.md" title="Better Bake" target="_blank">
     <img src="https://github.com/djbrownbear/djbrownbear.github.io/blob/main/images/AnimationBetterBake.gif" alt="Better Bake, More Info" width="400px">
+  Visit Live Site
 </a>
 
 Technologies used:
@@ -48,6 +51,7 @@ Technologies used:
 
 <a href="https://github.com/djbrownbear/dash-covid19-ca-bay-area/#README.md" title="Covid Tracker" target="_blank">
   <img src="https://github.com/djbrownbear/djbrownbear.github.io/blob/main/images/AnimationCovidTracker.gif" alt="Better Bake, More Info" width="400px">
+   Visit Live Site
 </a>
   
 Technologies used:
