@@ -1,5 +1,5 @@
 <h2 align="center">Hi, a_a_ron = "present🙋🏾‍♂️".</h2>
-<p align="left">As a software engineer, I bring a unique perspective to my work, thanks to my successful transition from diverse industries, including food, real estate, and tax.</p>
+<p align="left">As a software engineer, I bring a unique perspective to my work, thanks to my successful transition from diverse industries, including food, real estate, and tax</p>
 
 ### ⚒ Projects:
 <p>Check out some of the projects I have worked on:</p>
