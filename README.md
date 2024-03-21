@@ -8,23 +8,20 @@
 <p>Check out some of the projects I have worked on:</p>
 
 <details closed>
-  <summary>Mustard Seed Preschool 🏫</summary>
+  <summary>Re-reddit</summary>
   <br>
 
-<a href="http://msp.aaronandanita.com/" title="Mustard Seed Preschool" target="_blank">
-    <img src="https://github.com/djbrownbear/msp/blob/bb9c353d3fcc48bddeec2ad5d01586ccfaca9eee/assets/images/msp_2023-04-02%20235909.jpg" width="400px" alt="MSP homepage">
+<a href="https://re-reddit-opal.vercel.app/" title="Re-Reddit" target="_blank">
+<!--     <img src="" width="400px" alt="Re-reddit"> -->
   <br>Visit Live Site</br>
 </a>  <br>
 
 Technologies used:
-  
-![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
+![TypeScript Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat-square)  
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square)
+![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Chakra UI Badge](https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge)
+![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 </details>
 
 <details closed>
