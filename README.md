@@ -2,7 +2,7 @@
 <p align="left">Aaron is a software engineer with a unique perspective thanks to a successful transition from diverse industries, including food, real estate, and tax.</p>
 
 ### ✍️ Open Source Contributions:
-* Vaultwarden (Popular fork of Bitwarden) - Corrected typo and improved UI tooltip within the admin panel to give more detailed error messages. [See commit](https://github.com/dani-garcia/vaultwarden/commits?author=djbrownbear)
+* Vaultwarden (Popular fork of Bitwarden) - [See commit](https://github.com/dani-garcia/vaultwarden/commits?author=djbrownbear)
 
 ### ⚒ Projects:
 <p>Check out some of the projects I have worked on:</p>
