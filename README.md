@@ -50,10 +50,10 @@ Technologies used:
 </details>
 
 <details closed>
-  <summary>Covid-19 Tracker 📈</summary>
+  <summary>Covid-19 Tracker (deprecated) 📈</summary>
   <br>
 
-<a href="https://djbrownbear.pythonanywhere.com" title="Covid Tracker" target="_blank">
+<a href="#" title="Covid Tracker" target="_blank">
   <img src="https://github.com/djbrownbear/djbrownbear.github.io/blob/main/images/AnimationCovidTracker.gif" alt="Better Bake, More Info" width="400px">
    Visit Live Site
 </a>
