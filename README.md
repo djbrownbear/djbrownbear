@@ -8,7 +8,7 @@
 <p>Check out some of the projects I have worked on:</p>
 
 <details closed>
-  <summary>Re-reddit</summary>
+  <summary>Re-reddit (deprecated)</summary>
   <br>
 
 <a href="https://re-reddit-opal.vercel.app/" title="Re-Reddit" target="_blank">
