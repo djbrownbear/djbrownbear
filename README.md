@@ -9,12 +9,6 @@
 
 <details closed>
   <summary>Re-reddit (deprecated)</summary>
-  <br>
-
-<a href="https://re-reddit-opal.vercel.app/" title="Re-Reddit" target="_blank">
-<!--     <img src="" width="400px" alt="Re-reddit"> -->
-  <br>Visit Live Site</br>
-</a>  <br>
 
 Technologies used:
 ![TypeScript Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
@@ -25,13 +19,8 @@ Technologies used:
 </details>
 
 <details closed>
-  <summary>Better Bake 🧁</summary>
+  <summary>Better Bake (deprecated)</summary>
   <br>
-
-<a href="https://aaron.aaronandanita.com/better-bake/" title="Better Bake" target="_blank">
-    <img src="https://github.com/djbrownbear/djbrownbear.github.io/blob/main/images/AnimationBetterBake.gif" alt="Better Bake, More Info" width="400px">
-  Visit Live Site
-</a>
   
   <a href="https://github.com/djbrownbear/better-bake/#README.md" title="Better Bake GitHub Repo" target="_blank">
     GitHub Repo
@@ -53,10 +42,6 @@ Technologies used:
   <summary>Covid-19 Tracker (deprecated) 📈</summary>
   <br>
 
-<a href="#" title="Covid Tracker" target="_blank">
-  <img src="https://github.com/djbrownbear/djbrownbear.github.io/blob/main/images/AnimationCovidTracker.gif" alt="Better Bake, More Info" width="400px">
-   Visit Live Site
-</a>
 <a href="https://github.com/djbrownbear/dash-covid19-ca-bay-area/#README.md" title="Covid Track GitHub Repo" target="_blank">
   GitHub Repo
 </a>
