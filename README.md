@@ -1,8 +1,8 @@
 <h2 align="center">Hi, a_a_ron = "present🙋🏾‍♂️".</h2>
 
-I'm Aaron, a freelance full-stack engineer in Sacramento, CA. I build TypeScript and Python web apps end to end, from PostgreSQL schema to React UI to deployment, and I add LLM features where they solve a real problem. Before software I worked in IT/operations, real estate, and tax preparation, so I'm used to turning messy requirements into working systems.
+I'm Aaron, a California-based freelance full-stack engineer. I build TypeScript and Python web apps end to end, from PostgreSQL schema to React UI to deployment, and I add LLM features where they solve a real problem. Before software, I worked in IT/operations, real estate, and tax preparation, so I'm used to turning messy requirements into working systems.
 
-**Open to full-stack roles, especially ones involving AI/LLMs.** Portfolio: [brownhandlesit.com](https://brownhandlesit.com)
+Portfolio: [brownhandlesit.com](https://brownhandlesit.com)
 
 ### ⚒ Projects
 
