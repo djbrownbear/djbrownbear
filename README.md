@@ -33,7 +33,7 @@ Python · R · Jupyter
 
 ### 🚀 GitHub Stats
 
-<img src="./profile/stats.svg" alt="Aaron Brown's GitHub stats">
+<img src="https://raw.githubusercontent.com/djbrownbear/djbrownbear/output/profile/stats.svg" alt="Aaron Brown's GitHub stats">
 
 ### 📨 Contact
 

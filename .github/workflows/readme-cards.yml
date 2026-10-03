@@ -32,10 +32,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Commit cards
+      # main only accepts changes through pull requests, so the cards live on a
+      # separate output branch that is replaced on every run (no history build-up).
+      - name: Publish cards to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch --orphan output
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+          git commit -m "Update README cards"
+          git push --force origin output
